@@ -1,0 +1,63 @@
+{'id': 'chatcmpl-8turrd0nweSlLNQeJBRcOk9LlSjcA', 'object': 'chat.completion', 'created': 1708337331, 'model': 'gpt-4-1106-vision-preview', 'usage': {'prompt_tokens': 821, 'completion_tokens': 2, 'total_tokens': 823}, 'choices': [{'message': {'role': 'assistant', 'content': 'いす'}, 'finish_reason': 'stop', 'index': 0}]}
+
+
+{'id': 'chatcmpl-8turxGx7UAOPIUecFL9NqJ9R8SEbU', 'object': 'chat.completion', 'created': 1708337337, 'model': 'gpt-4-1106-vision-preview', 'usage': {'prompt_tokens': 1639, 'completion_tokens': 2, 'total_tokens': 1641}, 'choices': [{'message': {'role': 'assistant', 'content': 'いす'}, 'finish_reason': 'stop', 'index': 0}]}
+
+
+{'id': 'chatcmpl-8tus2IzCVt0VofaL3Ql0FUT4V7psk', 'object': 'chat.completion', 'created': 1708337342, 'model': 'gpt-4-1106-vision-preview', 'usage': {'prompt_tokens': 2457, 'completion_tokens': 2, 'total_tokens': 2459}, 'choices': [{'message': {'role': 'assistant', 'content': 'いす'}, 'finish_reason': 'stop', 'index': 0}]}
+
+
+{'id': 'chatcmpl-8tus9lsSfouDk9T7WglhqdTbtxZLd', 'object': 'chat.completion', 'created': 1708337349, 'model': 'gpt-4-1106-vision-preview', 'usage': {'prompt_tokens': 3275, 'completion_tokens': 2, 'total_tokens': 3277}, 'choices': [{'message': {'role': 'assistant', 'content': 'いす'}, 'finish_reason': 'stop', 'index': 0}]}
+
+
+{'id': 'chatcmpl-8tusE4w2khZoWBjjsESRSLqlp5Y8g', 'object': 'chat.completion', 'created': 1708337354, 'model': 'gpt-4-1106-vision-preview', 'usage': {'prompt_tokens': 3583, 'completion_tokens': 3, 'total_tokens': 3586}, 'choices': [{'message': {'role': 'assistant', 'content': 'つくえ'}, 'finish_reason': 'stop', 'index': 0}]}
+
+
+{'id': 'chatcmpl-8tusJTi0BvgaO1hWvKi1lI8aqWmTO', 'object': 'chat.completion', 'created': 1708337359, 'model': 'gpt-4-1106-vision-preview', 'usage': {'prompt_tokens': 4401, 'completion_tokens': 2, 'total_tokens': 4403}, 'choices': [{'message': {'role': 'assistant', 'content': 'いす'}, 'finish_reason': 'stop', 'index': 0}]}
+
+
+{'id': 'chatcmpl-8tusO3E11PmhZcITMv05YUP8YpCxy', 'object': 'chat.completion', 'created': 1708337364, 'model': 'gpt-4-1106-vision-preview', 'usage': {'prompt_tokens': 5219, 'completion_tokens': 3, 'total_tokens': 5222}, 'choices': [{'message': {'role': 'assistant', 'content': 'つくえ'}, 'finish_reason': 'stop', 'index': 0}]}
+
+
+{'id': 'chatcmpl-8tusV3sFLSDqUaKkisGqK0FztSc9I', 'object': 'chat.completion', 'created': 1708337371, 'model': 'gpt-4-1106-vision-preview', 'usage': {'prompt_tokens': 6037, 'completion_tokens': 6, 'total_tokens': 6043}, 'choices': [{'message': {'role': 'assistant', 'content': 'どちらでもない'}, 'finish_reason': 'stop', 'index': 0}]}
+
+
+{'id': 'chatcmpl-8tuscrBKXxmFdkYAqtNm7ij20AFcu', 'object': 'chat.completion', 'created': 1708337378, 'model': 'gpt-4-1106-vision-preview', 'usage': {'prompt_tokens': 6855, 'completion_tokens': 2, 'total_tokens': 6857}, 'choices': [{'message': {'role': 'assistant', 'content': 'いす'}, 'finish_reason': 'stop', 'index': 0}]}
+
+
+{'id': 'chatcmpl-8tuskbKr6iTmH7NDeIwcPNN5RXlIp', 'object': 'chat.completion', 'created': 1708337386, 'model': 'gpt-4-1106-vision-preview', 'usage': {'prompt_tokens': 7673, 'completion_tokens': 6, 'total_tokens': 7679}, 'choices': [{'message': {'role': 'assistant', 'content': 'どちらでもない'}, 'finish_reason': 'stop', 'index': 0}]}
+
+
+{'id': 'chatcmpl-8tuswvqV0wmKCkIPEn8cQPPhwQriq', 'object': 'chat.completion', 'created': 1708337398, 'model': 'gpt-4-1106-vision-preview', 'usage': {'prompt_tokens': 8491, 'completion_tokens': 3, 'total_tokens': 8494}, 'choices': [{'message': {'role': 'assistant', 'content': 'つくえ'}, 'finish_reason': 'stop', 'index': 0}]}
+
+
+{'id': 'chatcmpl-8tut3um4kNBrVxPEIs2E6hycloxe4', 'object': 'chat.completion', 'created': 1708337405, 'model': 'gpt-4-1106-vision-preview', 'usage': {'prompt_tokens': 8799, 'completion_tokens': 5, 'total_tokens': 8804}, 'choices': [{'message': {'role': 'assistant', 'content': '「つくえ」'}, 'finish_reason': 'stop', 'index': 0}]}
+
+
+{'id': 'chatcmpl-8tutC7jYXRKRVQGUzK6LdUwvPElLj', 'object': 'chat.completion', 'created': 1708337414, 'model': 'gpt-4-1106-vision-preview', 'usage': {'prompt_tokens': 9107, 'completion_tokens': 8, 'total_tokens': 9115}, 'choices': [{'message': {'role': 'assistant', 'content': '「どちらでもない」'}, 'finish_reason': 'stop', 'index': 0}]}
+
+
+{'id': 'chatcmpl-8tutMHhrk8VeaoZA8efoXtkJFpaWG', 'object': 'chat.completion', 'created': 1708337424, 'model': 'gpt-4-1106-vision-preview', 'usage': {'prompt_tokens': 9415, 'completion_tokens': 5, 'total_tokens': 9420}, 'choices': [{'message': {'role': 'assistant', 'content': '「つくえ」'}, 'finish_reason': 'stop', 'index': 0}]}
+
+
+{'id': 'chatcmpl-8tutYCUznW7MA3mQg4q68rg3duMv5', 'object': 'chat.completion', 'created': 1708337436, 'model': 'gpt-4-1106-vision-preview', 'usage': {'prompt_tokens': 10233, 'completion_tokens': 6, 'total_tokens': 10239}, 'choices': [{'message': {'role': 'assistant', 'content': '「いす」です。'}, 'finish_reason': 'stop', 'index': 0}]}
+
+
+{'id': 'chatcmpl-8tutiB0yT9844DpgnTx5pXnYENKNG', 'object': 'chat.completion', 'created': 1708337446, 'model': 'gpt-4-1106-vision-preview', 'usage': {'prompt_tokens': 10541, 'completion_tokens': 5, 'total_tokens': 10546}, 'choices': [{'message': {'role': 'assistant', 'content': '「つくえ」'}, 'finish_reason': 'stop', 'index': 0}]}
+
+
+{'id': 'chatcmpl-8tutuKN29e7vTKTSwE1uGyDSXXEBi', 'object': 'chat.completion', 'created': 1708337458, 'model': 'gpt-4-1106-vision-preview', 'usage': {'prompt_tokens': 11359, 'completion_tokens': 2, 'total_tokens': 11361}, 'choices': [{'message': {'role': 'assistant', 'content': 'いす'}, 'finish_reason': 'stop', 'index': 0}]}
+
+
+{'id': 'chatcmpl-8tuu7GluYAgbgnqnzH5UCVuq7AdMr', 'object': 'chat.completion', 'created': 1708337471, 'model': 'gpt-4-1106-vision-preview', 'usage': {'prompt_tokens': 12177, 'completion_tokens': 4, 'total_tokens': 12181}, 'choices': [{'message': {'role': 'assistant', 'content': '「いす」'}, 'finish_reason': 'stop', 'index': 0}]}
+
+
+{'id': 'chatcmpl-8tuuKjv98taej9jaBz1AVssO2sjOf', 'object': 'chat.completion', 'created': 1708337484, 'model': 'gpt-4-1106-vision-preview', 'usage': {'prompt_tokens': 12995, 'completion_tokens': 2, 'total_tokens': 12997}, 'choices': [{'message': {'role': 'assistant', 'content': 'いす'}, 'finish_reason': 'stop', 'index': 0}]}
+
+
+{'id': 'chatcmpl-8tuuUoyW3XhWaM7EkvUuD3Ml7WGF3', 'object': 'chat.completion', 'created': 1708337494, 'model': 'gpt-4-1106-vision-preview', 'usage': {'prompt_tokens': 13303, 'completion_tokens': 5, 'total_tokens': 13308}, 'choices': [{'message': {'role': 'assistant', 'content': '「つくえ」'}, 'finish_reason': 'stop', 'index': 0}]}
+
+
+chair:  ['/Users/jiangwenchu/Desktop/鉄/自動推計/images/image18.jpeg', '/Users/jiangwenchu/Desktop/鉄/自動推計/images/image14.jpeg', '/Users/jiangwenchu/Desktop/鉄/自動推計/images/image15.jpeg', '/Users/jiangwenchu/Desktop/鉄/自動推計/images/image19.jpeg', '/Users/jiangwenchu/Desktop/鉄/自動推計/images/image12.jpeg', '/Users/jiangwenchu/Desktop/鉄/自動推計/images/image13.jpeg', '/Users/jiangwenchu/Desktop/鉄/自動推計/images/image11.jpeg', '/Users/jiangwenchu/Desktop/鉄/自動推計/images/image20.jpeg', '/Users/jiangwenchu/Desktop/鉄/自動推計/images/image16.jpeg', '/Users/jiangwenchu/Desktop/鉄/自動推計/images/image17.jpeg']
+desk:  ['/Users/jiangwenchu/Desktop/鉄/自動推計/images/image1.jpeg', '/Users/jiangwenchu/Desktop/鉄/自動推計/images/image6.jpeg', '/Users/jiangwenchu/Desktop/鉄/自動推計/images/image8.jpeg', '/Users/jiangwenchu/Desktop/鉄/自動推計/images/image4.jpeg', '/Users/jiangwenchu/Desktop/鉄/自動推計/images/image9.jpeg', '/Users/jiangwenchu/Desktop/鉄/自動推計/images/image2.jpeg', '/Users/jiangwenchu/Desktop/鉄/自動推計/images/image3.jpeg']
+others:  ['/Users/jiangwenchu/Desktop/鉄/自動推計/images/image7.jpeg', '/Users/jiangwenchu/Desktop/鉄/自動推計/images/image10.jpeg', '/Users/jiangwenchu/Desktop/鉄/自動推計/images/image5.jpeg']
